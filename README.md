@@ -1,2 +1,3 @@
 # Cronometro
-![Print-Cronometro](https://user-images.githubusercontent.com/87776834/197842932-205c1cd9-bab5-4632-9b25-2d4387927acc.png)
+
+![Print-Cronometro](https://user-images.githubusercontent.com/87776834/197843260-1c75a7a7-1766-4a44-bba2-15477509fcf7.png)
